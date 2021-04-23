@@ -1,0 +1,22 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macielgaleano/test-jest.git"
+  },
+  "author": "Maciel Galeano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macielgaleano/test-jest/issues"
+  },
+  "homepage": "https://github.com/macielgaleano/test-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
